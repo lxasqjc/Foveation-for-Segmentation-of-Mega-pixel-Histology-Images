@@ -1,1 +1,1 @@
-# Foveation for Segmention of Mega-pixel Histology Images
+# Foveation for Segmentation of Mega-pixel Histology Images
